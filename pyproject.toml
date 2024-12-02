@@ -2,12 +2,13 @@
 name = "sale-scrap"
 version = "0.0.1"
 description = "E-markets sale scrapper"
-authors = ["Your Name <you@example.com>"]
+authors = ["Anton Kosenko <kosenko.anton.work@gmail.com>"]
 license = "MIT Licence"
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+scrapy = "^2.12.0"
 
 
 [build-system]
